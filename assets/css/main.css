@@ -490,7 +490,6 @@ input, select, textarea {
 		border-radius: 20px;  /* This creates curved corners */
 		cursor: pointer;
 		font-size: 14px;
-		margin-left: 10px;
 		margin-right: 10px;
 		transition: all 0.3s ease;  /* Smooth transition for hover effects */
 	}
